@@ -100,11 +100,10 @@ python -m streamlit run app.py
 
 ## 📸 Screenshots
 
-| Interface       | Screenshot                                       |
-| --------------- | ------------------------------------------------ |
-| 👤 Face Capture | ![Face Capture](output/screenshots/tarun_sai_testing.jpg)  |
-| ✅ Match Success | ![Match Success](output/screenshots/success.jpg) |
-| 🔐 Admin Panel  | ![Admin Panel](output/screenshots/admin.jpg)     |
+| Interface                                        | Screenshot                                       |
+| ------------------------------------------------ | ------------------------------------------------ |
+| 👤 Face Capture ✅ Match Success 🔐 Admin Panel | ![Face Capture](output/screenshots/tarun_sai_testing.jpg)  |
+
 
 > 📂 Save screenshots inside `output/screenshots/` folder
 
