@@ -102,7 +102,7 @@ python -m streamlit run app.py
 
 | Interface       | Screenshot                                       |
 | --------------- | ------------------------------------------------ |
-| 👤 Face Capture | ![Face Capture](output/screenshots/capture.jpg)  |
+| 👤 Face Capture | ![Face Capture](output/screenshots/tarun_sai_testing.jpg)  |
 | ✅ Match Success | ![Match Success](output/screenshots/success.jpg) |
 | 🔐 Admin Panel  | ![Admin Panel](output/screenshots/admin.jpg)     |
 
